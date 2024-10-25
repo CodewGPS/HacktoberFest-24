@@ -1,0 +1,9 @@
+. Title
+. Problem
+. Solution
+. Technology used
+. Estimated Impact
+
+
+a user opens our web/app -> creates/joins a space -> upload a pdf / ask anything -> can share / invite others to collaborate 
+features : admin can assign roles
